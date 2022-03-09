@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on gaodingkeji
-- 🌱 I’m currently write mini-vue
+- 🌱 I’m currently write [mini-vue](https://github.com/KesionX/mini-vue)
 - 💬 zhihu [kesion](https://www.zhihu.com/people/ke-ga-ga-86)
 - 📫 How to reach me: 673080885@qq.com
 - 😄 Pronouns: kesion
